@@ -11,9 +11,10 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  </tr>
  <tr>
  <td><a href="https://https://mice.chu.edu.tw/>會展系</a></td>
- <td><a href="https://https://mice.chu.edu.tw/p/412-1041-92.php?Lang=zh-tw>優勢</a></td>
- <td><a href="">巨量資料處理</a></td>
  <td>陳 O 婷</td>
+ <td><a href="">巨量資料處理</a></td>
+ <td><a href="https://https://mice.chu.edu.tw/p/412-1041-92.php?Lang=zh-tw>優勢</a></td>
+ 
  </tr>
  <tr>
  <td><a href="https:/https://mice.chu.edu.tw/>會展系</a></td>
