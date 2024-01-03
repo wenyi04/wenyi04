@@ -13,21 +13,21 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <td><a href="https://https://mice.chu.edu.tw/">會展系</a></td>
  <td><a href="https://https://mice.chu.edu.tw/p/412-1041-92.php?Lang=zh-tw">優勢</a></td>
  <td><a href="https://github.com/wenyi04/1227map">巨量資料處理</a></td>
-<td>陳 O 婷</td>
+<td>歐戀幾2</td>
  
  </tr>
  <tr>
  <td><a href="https:/https://mice.chu.edu.tw/">會展系</a></td>
  <td><a href="https://https://mice.chu.edu.tw/p/412-1041-117.php?Lang=zh-tw">實習</a></td>
  <td><a href="https://github.com/wenyi04/line-weather-vercel">巨量資料處理</a></td>
- <td>葉 O 萱</td>
+ <td>歐戀幾3</td>
  </tr>
 
  <tr>
  <td><a href="https://https://mice.chu.edu.tw/">會展系</a></td>
  <td><a href="https://https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">海外移地教學</a></td>
  <td><a href="https://github.com/wenyi04/1129-wen">巨量資料處理</a></td>
- <td>李 O 芸</td>
+ <td>歐戀幾4</td>
  </tr>
 </table><br>
 <img src="II_1.jpg"></img>
